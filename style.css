@@ -1,9 +1,9 @@
 #banner {
 	width:100%;
-}			
+}
 
 .principal{
-	background: #e9e500;
+	background: #eedf09;
 	padding: 30px;
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #d8d406;
 }
 
 .itens {
@@ -32,11 +32,8 @@ em strong {
 }
 
 .beneficios {
-	background: #ac0606;
+	background: #FFFFFF;
 	padding: 20px;
-	#missao {
-		font-size: 20px
-	}
 }
 
 ul {
@@ -44,9 +41,6 @@ ul {
 	vertical-align: top;
 	width: 20%;
 	margin-right: 15%;
-}
-#missao {
-	font-size: 20px
 }
 
 .imagembeneficios {
